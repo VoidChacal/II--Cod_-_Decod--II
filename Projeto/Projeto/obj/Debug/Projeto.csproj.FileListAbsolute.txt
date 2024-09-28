@@ -1,0 +1,24 @@
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.Codificacao.resources
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.Decodificacao.resources
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+G:\Nova pasta (7)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+G:\Nova pasta (7)\Projeto\Projeto\bin\Debug\Projeto.exe
+G:\Nova pasta (7)\Projeto\Projeto\bin\Debug\Projeto.pdb
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.exe
+G:\Nova pasta (7)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\DevChacal\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\DevChacal\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\DevChacal\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.Codificacao.resources
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.Decodificacao.resources
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\DevChacal\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
