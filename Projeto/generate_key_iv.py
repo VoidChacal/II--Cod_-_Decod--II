@@ -6,7 +6,7 @@ import base64
 key = get_random_bytes(16)  # 16 bytes para AES-128
 iv = get_random_bytes(16)   # 16 bytes para AES
 
-# Codificar em base64 para facilitar a visualização e uso
+# Codificar em base64
 key_b64 = base64.b64encode(key).decode()
 iv_b64 = base64.b64encode(iv).decode()
 
